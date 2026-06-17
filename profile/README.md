@@ -6,7 +6,7 @@
 
 A declarative, reactive UI framework written in Rust — with first-class state machines, spring-physics animation, and GPU-accelerated rendering.
 
-[Website](https://blinc.rs) · [Core Framework](https://github.com/project-blinc/Blinc) · [crates.io](https://crates.io/crates/blinc_app) · [Apache-2.0](https://github.com/project-blinc/Blinc/blob/main/LICENSE)
+[Website](https://blinc.rs) · [Core Framework](https://github.com/project-blinc/Blinc) · [crates.io](https://crates.io/crates/blinc_app) · [Discord](https://discord.gg/WXADUBBgzP) · [Apache-2.0](https://github.com/project-blinc/Blinc/blob/main/LICENSE)
 
 </div>
 

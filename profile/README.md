@@ -24,7 +24,7 @@ A declarative, reactive UI framework written in Rust — with first-class state 
 
 ```toml
 [dependencies]
-blinc_app = "0.1"
+blinc_app = "0.5"
 ```
 
 > See the [Blinc repository](https://github.com/project-blinc/Blinc) for documentation, examples, and getting-started guides.

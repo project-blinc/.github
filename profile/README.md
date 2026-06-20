@@ -69,11 +69,11 @@ Blinc is extended by a set of focused crates. Each one is independent — pull i
                                │
         ┌────────────────────────────────────────────┐
         │                                            │                       
-  Canvas & scene                           Animation & assets
-  ─────────────                            ────────────────── 
-  canvas_kit                                     skeleton                  
-  portal_ui                                        gltf
-  node_editor                                     lottie
+  Canvas & scene                           Games, Animation & assets
+  ─────────────                            ───────────────────────────
+  canvas_kit                                       game_kit                  
+  portal_ui                                        lottie
+  node_editor                                    
 ```
 
 ---

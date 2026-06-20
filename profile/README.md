@@ -43,19 +43,13 @@ Blinc is extended by a set of focused crates. Each one is independent — pull i
 | [**blinc_portal_ui**](https://github.com/project-blinc/blinc_portal_ui) | Immediate-mode widget toolkit for canvas closures — render real interactive widgets and free-form painting inside a Canvas. |
 | [**blinc_node_editor**](https://github.com/project-blinc/blinc_node_editor) | A metadata-driven node-graph editor toolkit built on [`blinc_canvas_kit`](https://github.com/project-blinc/blinc_canvas_kit). Typed ports, bezier connectors with drag-to-connect, immediate-mode content widgets inside node bodies, group chrome, theme-aware rendering, frustum-culled paint, and a signal + event API designed for reactive Blinc hosts. |
 
-### Animation & assets
+### Games, Animation & assets
 
 | Package | What it does |
 | --- | --- |
-| [**blinc_skeleton**](https://github.com/project-blinc/blinc_skeleton) | Runtime poser for Blinc 2D/3D canvases. |
-| [**blinc_gltf**](https://github.com/project-blinc/blinc_gltf) | glTF 2.0 loader for Blinc. |
+| [**blinc_game_kit**](https://github.com/project-blinc/blinc_game_kit) | Game creator kit for Blinc 2D/3D canvases. |
 | [**blinc_lottie**](https://github.com/project-blinc/blinc_lottie) | Lottie animation player for Blinc sketches. |
 
-### Input
-
-| Package | What it does |
-| --- | --- |
-| [**blinc_input**](https://github.com/project-blinc/blinc_input) | Polling-style input state for Blinc sketches and canvases. |
 
 ---
 
